@@ -1,0 +1,6 @@
+Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare
+1,Mr. John Smith,male,35,1,0,50.0
+3,Miss. Anna Johansson,female,22,0,0,7.75
+2,Mrs. Elizabeth Brown,female,45,1,2,26.0
+1,Dr. William Carter,male,50,0,0,80.0
+3,Master. Thomas Lee,male,8,3,1,27.9
